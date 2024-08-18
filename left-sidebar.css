@@ -1,0 +1,85 @@
+.x-button,
+.home-button,
+.explore-button,
+.notifications-button,
+.messages-button,
+.lists-button,
+.communities-button,
+.premium-button,
+.profile-button,
+.sidebar-more-button{
+    fill: white;
+    height: 30px;
+}
+
+.left-sidebar{
+    width: 314px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    overflow-y: auto;
+}
+
+
+
+.left-sidebar-button{
+    height: 53px;
+    margin-left: 56px;
+    display: flex;
+    align-items: center;
+}
+
+.left-sidebar-button div{
+    margin-left: 20px;
+    font-size: 19px;
+}
+.home{
+    font-weight: bold;
+}
+
+.left-sidebar button{
+    padding: 15px 90px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 45px;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.user-profile img{
+    width: 35px;
+    height: 35px;
+    border-radius: 23px;
+    margin-right: 13px;
+}
+
+.user-profile{
+    display: flex;
+
+}
+
+.user-more-button{
+    height: 20px;
+    fill: white;
+}
+
+.user-profile-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:25px 20px 20px 56px;
+}
+
+.user{
+    font-weight: bold;
+}
+
+.username{
+    color: rgb(94, 94, 94);
+    font-size: 15px;
+}
+

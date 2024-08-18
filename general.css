@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: Roboto, Arial;
+    height: 3000px;
+    padding-left: 314px;
+    padding-right: 420px;
+    padding-top: 48px;
+    margin: 0;
+}
+
+p{
+    color: white;
+    margin: 0;
+}
+
+div{
+    color: white;
+
+}

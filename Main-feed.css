@@ -1,0 +1,174 @@
+.main-feed{
+    margin-top: -1px;
+    
+}
+
+
+.user-profile-pic,
+.post img{
+    width: 35px;
+    height: 35px;
+    border-radius: 23px;
+    margin-right: 13px;
+}
+
+.post-button{
+    padding: 8px 17px;
+    border-radius: 18px;
+    border: none;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    font-weight: bold;
+}
+
+.question{
+    display: flex;
+    align-items: center;
+    margin-bottom: 13px;
+}
+
+.question p{
+    color: rgb(94, 94, 94);
+    font-size: 20px;
+}
+
+.post-section,
+.post{
+    border: 1px solid rgb(94, 94, 94);
+    padding: 10px 20px 8px 15px;
+}
+
+
+
+.media-button,
+.gif-button,
+.poll-button,
+.emoji-button,
+.schedule-button,
+.location-button{
+    height: 20px;
+    fill: rgb(29, 155, 240);
+}
+
+.tiny-buttons{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 55px;
+}
+
+.show-posts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(94, 94, 94);
+    margin-top: -1px;
+    height: 47px;
+    
+}
+
+.show-posts div{
+    color: rgb(29, 155, 240);
+    font-size: 15px;
+}
+
+.user{
+    font-weight: bold;
+}
+
+.user span{
+    color: rgb(94, 94, 94);
+    font-weight: normal;
+}
+
+.first-line,
+.user-more-container{
+    display: flex;
+}
+
+.post p{
+    font-size: 12px;
+}
+
+.first-text{
+    margin-top: 2px;
+}
+
+
+.second-text{
+    margin-top: 18px;
+}
+
+.more-button{
+    height: 18px;
+    fill: rgb(94, 94, 94);
+}
+
+.user-more-container{
+    justify-content: space-between;
+    width: 100%;
+}
+
+.everything-else{
+    width: 100%;
+}
+
+.post-media{
+    height: 500px;
+    width: 450px;
+    border: 1px solid rgb(94, 94, 94);
+    margin-left: 48px;
+    margin-top: 10px;
+    border-radius: 12px;
+}
+
+.post-media img{
+    width: 100%;
+    height: 100%;
+}
+
+.reply-button,
+.repost-button,
+.like-button,
+.view-button,
+.bookmark-button,
+.share-button{
+    fill: rgb(94, 94, 94);
+    height: 20px;
+}
+
+
+
+.tiny-like-buttons-numbers{
+    font-size: 12px;
+    margin-left: 10px;
+    color: rgb(94, 94, 94);
+}
+
+.tiny-like-buttons{
+    display: flex;
+    margin-left: 48px;
+    margin-top: 10px;
+    margin: 10px 0 5px 48px ;
+}
+
+.tiny-like-buttons-container{
+    display: flex;
+    align-items: center;
+    margin-right: 48px;
+}
+
+#bookmark-button{
+    margin-right: 10px;
+}
+
+.post{
+    margin-top: -1px;
+}

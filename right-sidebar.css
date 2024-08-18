@@ -1,0 +1,126 @@
+.right-sidebar{
+    top: 48px;
+    right: 0;
+    bottom: 0;
+    width: 420px;
+    position:absolute;
+}
+.subscribe,
+.subscribe-reason{
+    font-weight: bold;
+}
+
+.subscribe{
+    font-size: 20px;
+}
+
+.subscribe-reason{
+    font-size: 14px;
+    margin-top: 13px;
+}
+
+.right-sidebar section{
+    background-color: rgb(27, 27, 27);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-right: 63px;
+    margin-top: 13px;
+}
+
+.subscribe-button{
+    border: none;
+    padding: 10px 15px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(29, 155, 240);
+    border-radius: 18px;
+    margin-top: 10px;
+}
+
+.happenings p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.topic{
+    color: rgb(94, 94, 94);
+    font-size: 13px;
+    
+}
+
+.happenings span{
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 5px;
+}
+
+.thing{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.happenings-more-button{
+    height: 20px;
+    fill: rgb(94, 94, 94);
+}
+
+.show-more{
+    color: rgb(29, 155, 240);
+    margin-top: 27px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.follow-text{
+    display: flex;
+}
+
+.follow p{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.follow img{
+    width: 40px;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.follow-user{
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.follow-username{
+    font-size: 13px;
+    color: rgb(94, 94, 94);
+    margin-top: 4px;
+}
+
+.follow-account{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.follow-account button{
+    border: none;
+    padding: 8px 18px;
+    border-radius: 18px;
+    color: rgb(27, 27, 27);
+    font-weight: bold;
+}
+
+
+#round-profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
